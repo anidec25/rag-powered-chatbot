@@ -6,7 +6,6 @@ import os
 
 # Load environment variables from .env file
 load_dotenv()
-print("Test")
 
 
 # Initialize the language model
