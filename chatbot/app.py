@@ -12,7 +12,7 @@ load_dotenv()
 llm = ChatOpenAI(model="gpt-4o-mini")
 
 # Initialize Streamlit app
-st.title("Test Chatbot using Langchain")
+st.title("Chatbot - 1 Hour Project")
 
 # Sidebar for additional settings or information
 st.sidebar.title("Settings")
